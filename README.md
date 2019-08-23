@@ -23,7 +23,30 @@ mps-youtube :
 - `sudo pip3 install youtube-dl --upgrade` (oui on est obligé de faire la mise a jour après le dl)  
 On peut enfin lancer la commande avec ` mpsyt ` et on recherche avec /le nom de la super chanson que l'on veut écouter (genre /ttc girlfriend)
 
+### Les Packets nécéssaires pour développer  
+LAMP : 
+- `sudo apt install apache2 php libapache2-mod-php mariadb-server php-mysql`
+- `sudo apt install php-curl php-gd php-intl php-json php-mbstring php-xml php-zip`
+- `sudo apt install phpmyadmin`  
+et création d'un profil admin
+- `sudo mysql`
+- `GRANT ALL ON *.* TO 'marshlyin'@'localhost' IDENTIFIED BY 'le_bon_gros_mdp' WITH GRANT OPTION;   
+FLUSH PRIVILEGES;  
+QUIT;`
+
+
+NODE :
+- `wget -qO- https://deb.nodesource.com/setup_12.x | sudo -E bash -`
+- `sudo apt install -y nodejs`
+
+
 ## Logiciels utilisés
+
+- Editeur de code : [Visual Studio Code](https://code.visualstudio.com/)
+- IDE : [PhpStorm](https://www.jetbrains.com/phpstorm/) (Php/SQL), [WebStorm](https://www.jetbrains.com/webstorm/) (JS), [Android Studio](https://developer.android.com/studio) (Android natif, Flutter)
+- Organisation (Kanban, planning) : [Zenkit](https://static.zenkit.com/downloads/zenkit-linux.deb)
+- Gestion associative : [Slack](https://slack.com/intl/fr-fr/downloads/linux)
+
 
 ## Convention de nommage
 
