@@ -4,7 +4,7 @@ Tout les trucs qu'il faut pas que j'oublie quand je code, les projets que j'ai c
 
 
 ## Les must have sur mon PC  
-### Les extensions gnomes (sur Pop!_OS ! 19.04)
+### Les extensions gnomes (sur Pop!_OS - 19.04)
 - Dash to panel
 - gTile
 - OpenWeather
@@ -46,7 +46,7 @@ NODE :
 - IDE : [PhpStorm](https://www.jetbrains.com/phpstorm/) (Php/SQL), [WebStorm](https://www.jetbrains.com/webstorm/) (JS), [Android Studio](https://developer.android.com/studio) (Android natif, Flutter)
 - Organisation (Kanban, planning) : [Zenkit](https://static.zenkit.com/downloads/zenkit-linux.deb)
 - Gestion associative : [Slack](https://slack.com/intl/fr-fr/downloads/linux)
-
+- Versioning (graphique) : [GitKraken](https://www.gitkraken.com/download)
 
 ## Convention de nommage
 
