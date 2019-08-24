@@ -60,7 +60,13 @@ Travail collaboratif provenant d'un PoC entamé avec [Monowii](https://github.co
 > Require : websocket / express / mustache / sqlite3
 
 
-### 
+### Mailing Reworked
+Projet initialement entammé lors de mon stage chez [Effios](http://www.effios.fr/) en temps que développeur CRM [Dolibarr](https://www.dolibarr.org/). C'est une refonte de l'UX pour le module d'emailing du CRM : Moins d'étapes intermediaires, une visibilité des listes accrues, etc...   
+Le développement pour le compte d'Effios a été repris par mon [successeur](https://github.com/lefrancp), le développement communautaire devrait être repris courant Septembre.
+> Necessite Dolibarr, un ERP CRM Open Source
+
+### Radioplayer
+Un lecteur de webradio fait en une nuit à la place de travailler sur des projets vraiment importants. Très basique, en HTML/CSS et un peu de js, il est prévu d'être refait avec Vue.Js afin de découvrir ce framework. 
 
 
 
