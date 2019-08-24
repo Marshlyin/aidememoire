@@ -48,7 +48,17 @@ NODE :
 - Gestion associative : [Slack](https://slack.com/intl/fr-fr/downloads/linux)
 - Versioning (graphique) : [GitKraken](https://www.gitkraken.com/download)
 
-## Convention de nommage
+## Projets en cours
+
+### Pictochat
+Une reprise en NodeJS du fameux logiciel de chat de Nintendo sorti sur DS.
+Travail collaboratif provenant d'un PoC entamé avec [Monowii](https://github.com/monowii) et actuellement repris pour améliorer l'interface (style rétro, date et heure en temps réel, changement de couleur du dessin...)
+
+> Pour le lancer, `node server.js` et rdv @ localhost:8080  
+> Require : websocket / express / mustache / sqlite3
+
+
+### 
 
 
 
