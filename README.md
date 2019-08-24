@@ -21,7 +21,9 @@ mps-youtube :
 - `sudo pip3 install mps-youtube`  
 - `sudo pip3 install youtube-dl`  
 - `sudo pip3 install youtube-dl --upgrade` (oui on est obligé de faire la mise a jour après le dl)  
-On peut enfin lancer la commande avec ` mpsyt ` et on recherche avec /le nom de la super chanson que l'on veut écouter (genre /ttc girlfriend)
+- `sudo apt-get install mpv`
+On peut lancer la commande avec ` mpsyt `, puis `set player mpv` pour mettre en place le lecteur.
+On recherche avec /le nom de la super chanson que l'on veut écouter (genre /ttc girlfriend)
 
 ### Les Packets nécéssaires pour développer  
 LAMP : 
