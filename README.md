@@ -9,6 +9,8 @@ Tout les trucs qu'il faut pas que j'oublie quand je code, les projets que j'ai c
 - gTile
 - OpenWeather
 - User Themes
+- Lock Keys (comme je n'ai pas d'indicateur sur mes claviers)
+
 
 ### GTK theme
 Le theme que j'utilise actuellement est "Fantome", qui se dl via   
