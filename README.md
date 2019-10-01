@@ -4,7 +4,7 @@ Tout les trucs qu'il faut pas que j'oublie quand je code, les projets que j'ai c
 
 
 ## Les must have sur mon PC  
-### Les extensions gnomes (sur Pop!_OS - 19.04)
+### Les extensions gnomes (sur Ubuntu - 19.04)
 - Dash to panel
 - gTile
 - OpenWeather
