@@ -39,8 +39,8 @@ FLUSH PRIVILEGES;
 QUIT;`
 
 
-NODE :
-- `wget -qO- https://deb.nodesource.com/setup_12.x | sudo -E bash -`
+NODE (v13):
+- `curl -sL https://deb.nodesource.com/setup_13.x | sudo -E bash -`
 - `sudo apt install -y nodejs`
 
 
