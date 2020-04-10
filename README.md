@@ -50,7 +50,7 @@ NODE (v13):
 - IDE : [PhpStorm](https://www.jetbrains.com/phpstorm/) (Php/SQL), [WebStorm](https://www.jetbrains.com/webstorm/) (JS), [Android Studio](https://developer.android.com/studio) (Android natif, Flutter)
 - Organisation (Kanban, planning) : [Zenkit](https://static.zenkit.com/downloads/zenkit-linux.deb)
 - Gestion associative : [Slack](https://slack.com/intl/fr-fr/downloads/linux)
-- Versioning (graphique) : [GitKraken](https://www.gitkraken.com/download)
+- Versioning (graphique) : [GitAhead](https://gitahead.github.io/gitahead.com/) (Open Source sous license MIT)
 
 ## Projets en cours
 
