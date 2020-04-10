@@ -14,7 +14,7 @@ Tout les trucs qu'il faut pas que j'oublie quand je code, les projets que j'ai c
 
 ### GTK theme
 Le theme que j'utilise actuellement est "Fantome", qui se dl via   
-`git clone clone https://github.com/addy-dclxvi/gtk-theme-collections ~/.themes` (un ensemble de themes assez sympa)
+`git clone https://github.com/addy-dclxvi/gtk-theme-collections ~/.themes` (un ensemble de themes assez sympa)
 
 ### Écouter de la musique dans l'invite de commande
 mps-youtube :  
